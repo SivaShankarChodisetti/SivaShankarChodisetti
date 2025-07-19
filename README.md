@@ -68,6 +68,4 @@ To contribute to a dynamic cybersecurity team by leveraging my technical skills 
 * 🤖 [SOC Automation](https://github.com/SivaShankarCyber/soc-automation): Shuffle + TheHive + Cortex integration for alert triaging.
 * 🛡️ [Threat Mitigation Toolkit](https://github.com/SivaShankarCyber/scripts): Custom Python and Bash scripts for handling common incidents.
 
----
 
-Let me know if you'd like a **portfolio site**, **PDF version**, or help customizing GitHub links or icons.
