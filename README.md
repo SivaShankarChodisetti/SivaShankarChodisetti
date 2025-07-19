@@ -1,7 +1,3 @@
-Here’s your personalized cybersecurity profile in the same style as the one you provided. You can copy this into your GitHub `README.md` or personal portfolio:
-
----
-
 # Hello, I'm Siva Shankar 👋
 
 <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
