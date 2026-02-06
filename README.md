@@ -54,7 +54,7 @@ I am actively building practical projects to strengthen my real-world cybersecur
 - Uses time-window and threshold-based detection logic
 - Generates investigation-ready reports
 
-➡️ Repository: *(Add link here after uploading)*
+➡️ Repository: https://github.com/SivaShankarChodisetti/ssh-bruteforce-detector
 
 ---
 
