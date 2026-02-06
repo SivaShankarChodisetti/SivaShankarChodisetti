@@ -1,71 +1,89 @@
-# Hello, I'm Siva Shankar 👋
+# 👋 Hi, I'm Siva Shankar Chodisetti
 
-<a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+🎓 Master’s Student in Cybersecurity | SOC Analyst (Former) | Blue Team Enthusiast  
+📍 Dayton, Ohio, USA
 
-## 👨‍💻 Introduction
+---
 
-Former SOC Analyst at Accenture (Oct 2022 – Dec 2024), passionate about cybersecurity and protecting digital environments. With hands-on experience in SIEM tools like Splunk and practical exposure to incident response, threat monitoring, and automation, I’m now actively looking to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## 🔐 About Me
 
-## 🎯 Objective
+I am a cybersecurity graduate student at Wright State University with 2+ years of professional experience as a SOC Analyst at Accenture. I have hands-on experience in security monitoring, incident response, and log analysis, along with strong skills in Splunk and Python-based security automation.
 
-To contribute to a dynamic cybersecurity team by leveraging my technical skills in threat detection, log analysis, and security automation, while continuously upskilling and working towards advanced certifications.
-
-## 🧠 Skills & Projects
-
-| Skill                                           | Associated Project                                                                  |
-| ----------------------------------------------- | ----------------------------------------------------------------------------------- |
-| SIEM Implementation and Log Analysis            | <a href="https://github.com/SivaShankarCyber/detection-lab">Detection Lab</a>       |
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/SivaShankarCyber/detection-lab">Detection Lab</a>       |
-| Security Automation with Shuffle SOAR           | <a href="https://github.com/SivaShankarCyber/soc-automation">SOC Automation Lab</a> |
-| Incident Response Planning and Execution        | <a href="https://github.com/SivaShankarCyber/soc-automation">SOC Automation Lab</a> |
-| Case Management with TheHive                    | <a href="https://github.com/SivaShankarCyber/soc-automation">SOC Automation Lab</a> |
-| Threat Mitigation Scripts (Bash/Python)         | <a href="https://github.com/SivaShankarCyber/scripts">Threat Mitigation Toolkit</a> |
-
-## 🛠️ Tools
-
-### 🔌 Network
-
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### 🖥️ Endpoint
-
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### 📊 SIEM
-
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### ⚙️ SOAR & IR
-
-<div>
-    <img src="https://img.shields.io/badge/-Shuffle_SOAR-00CED1?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TheHive-FAFA33?&style=for-the-badge&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Cortex-003366?&style=for-the-badge&logoColor=white" />
-</div>
-
-## 🎓 Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-eJPT%20(in-progress)-FFA500?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
-
-## 🚀 Projects
-
-* 🔍 [Detection Lab](https://github.com/SivaShankarCyber/detection-lab): Simulated SOC environment for hands-on blue team exercises.
-* 🤖 [SOC Automation](https://github.com/SivaShankarCyber/soc-automation): Shuffle + TheHive + Cortex integration for alert triaging.
-* 🛡️ [Threat Mitigation Toolkit](https://github.com/SivaShankarCyber/scripts): Custom Python and Bash scripts for handling common incidents.
+My interests span multiple areas of cybersecurity, including defensive security, offensive security, cloud security, governance and risk management, and security engineering. I am actively building practical projects to gain broad exposure across the cybersecurity domain and develop well-rounded technical expertise.
 
 
+My interests include:
+- Security Operations & Incident Response (SOC)
+- Penetration Testing & Ethical Hacking
+- Cloud Security (AWS/Azure)
+- Threat Intelligence & Malware Analysis
+- Digital Forensics & Incident Investigation
+- Governance, Risk, and Compliance (GRC)
+- Security Engineering & Architecture
+- SIEM Engineering & Security Automation
+- Network & Application Security
+
+
+I am actively building practical projects to strengthen my real-world cybersecurity skills.
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming & Scripting**
+- Python, C, SQL
+
+**Security Tools & Platforms**
+- Splunk, Wireshark, Nmap, Kali Linux, Cortex XSOAR
+
+**SOC & Blue Team**
+- Alert Triage, Incident Response, MITRE ATT&CK, Log Analysis
+
+**Operating Systems**
+- Windows, Linux, macOS
+
+**Networking**
+- TCP/IP, DNS, HTTP/HTTPS, Packet Analysis
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Brute Force Detection Script (Python)
+- Detects brute-force login attempts from authentication logs
+- Uses time-window and threshold-based detection logic
+- Generates investigation-ready reports
+
+➡️ Repository: *(Add link here after uploading)*
+
+---
+
+### 🔹 Packet Capturing Tool (C)
+- Real-time and offline packet capture using libpcap
+- Analyzes TCP, UDP, and ICMP traffic
+- Identifies suspicious connection patterns
+
+➡️ Repository: *(Add link here after uploading)*
+
+---
+
+## 📜 Certifications
+
+- Certified Network Security Practitioner (CNSP) — SecOps Group (2025)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: shankarsiva673@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sivashankarchodisetti  
+
+---
+
+## 🎯 Career Goal
+
+To build a long-term career in cybersecurity by progressing from hands-on security operations and incident response roles into advanced positions in threat detection, SOC engineering, and cyber defense. My goal is to continuously develop expertise in SIEM engineering, security automation, and threat intelligence while contributing to strengthening organizational security posture.
+
+---
+
+⭐ Thank you for visiting my profile. Feel free to explore my projects and connect with me.
